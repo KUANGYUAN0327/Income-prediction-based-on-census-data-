@@ -1,10 +1,19 @@
-# Income-prediction-based-on-census-data-
-Income prediction based on census data
+# Income prediction based on census data
 
-Dataset: UCI Machine Learning Repository, Census income data set
+## Introduction:
 
-For the data analysis report: please read "Data_analysis_report.pdf"
+The prediction task is to determine whether a person makes over 50K a year.
 
-For the code: please read: please read "Data_analysis.ipynb"
+In this report, I will use deep neural network (DNN model).
 
-For the code with "logistic regression": please "DNN_logistic.py"
+## Dataset:
+
+This dataset is downloaded from Kaggle.
+
+Data recource: UCI machine learning repository.
+
+## For the Report: 
+please read "Income_Prediction_Report.pdf" or "Income_Prediction_Report.ipynb" .
+
+## For the code: 
+please read: "Income_Prediction_Report.ipynb".
