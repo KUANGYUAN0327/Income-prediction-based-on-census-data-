@@ -4,7 +4,7 @@
 
 The prediction task is to determine whether a person makes over 50K a year.
 
-In this report, I will use deep neural network (DNN model).
+In this report, I will use logistic regression and deep neural network (DNN model).
 
 ## Dataset:
 
