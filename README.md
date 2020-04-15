@@ -17,3 +17,8 @@ please read "Income_Prediction_Report.pdf" or "Income_Prediction_Report.ipynb" .
 
 ## For the code: 
 please read: "Income_Prediction_Report.ipynb".
+
+## For the data:
+please see or download the data file.
+
+Thanks!
